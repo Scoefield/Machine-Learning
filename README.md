@@ -3,7 +3,7 @@
 
 * 路漫漫其修远兮，吾将上下而求索。<br>
 
-* [我的博客](http://blog.csdn.net/scoefield"悬停显示")<br>
+* [我的博客](http://blog.csdn.net/scoefield "悬停显示")<br>
 
 * 机器学习实战（详细代码注释+训练数据集），持续更新中！<br>
 
